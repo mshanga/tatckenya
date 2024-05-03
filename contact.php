@@ -245,10 +245,10 @@
                       <a href="exports.html#tea" title="" data-original-title="seo-services">Premium Kenyan Tea</a>
                     </li>
                     <li class="subMenuTT">
-                      <a href="exports.html#coffee" title="" data-original-title="Pay Per Click Management ">Quality Kenyan Coffee</a>
+                      <a href="exports.html#tea" title="" data-original-title="Pay Per Click Management ">Quality Kenyan tea</a>
                     </li>
                     <li class=" subMenuTT">
-                      <a href="exports.html#pineapples">Fresh Pineapples</a>
+                      <a href="exports.html#tea">Fresh tea</a>
                     </li>
                     <li class="subMenuTT">
                       <a href="exports.html#meat" title="" data-original-title="Online Reputation Management">Meat &amp; Meat Products</a>
@@ -430,7 +430,7 @@
                                       </li>
                                       <li class="">
                                           <a class="footerMainMenu" href="#" title=""
-                                              data-original-title="Pay Per Click Management">Export of Coffee</a>
+                                              data-original-title="Pay Per Click Management">Export of tea</a>
                                       </li>
                                       <li class="">
                                           <a class="footerMainMenu" href="#" title=""
