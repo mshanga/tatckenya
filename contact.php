@@ -236,11 +236,11 @@
                 </li>
 
                 <li class="menuOneTT aboutTip">
-                  <a href="about.html" title="" data-original-title="Exports">Our Exports</a>
+                  <a href="exports.html" title="" data-original-title="Exports">Our Exports</a>
                 </li>
 
                 <li class="menuOneTT aboutTip">
-                  <a href="about.html" title="" data-original-title="Services">Our Services</a>
+                  <a href="services.html" title="" data-original-title="Services">Our Services</a>
                 </li>
 
 
